@@ -134,3 +134,5 @@ cacheSolve <- function(x, ...) {
 ## The inverse of n1 is printed in R console because the result is stored
 ## at the parent environment of makeCacheMatrix.
 
+
+
